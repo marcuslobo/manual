@@ -1,6 +1,6 @@
-#ACESSAR O SISTEMA
+##ACESSAR O SISTEMA
 
-[(Video)](http://gpweb/manual/v_a1.html#rodape)
+[(Video)](http://gpweb/manual/v_a1.html##rodape)
 
 Para acessar o sistema GP-Web, instância em produção do Ministério do Planejamento, Orçamento e Gestão MP, navegar até o endereço, disponível na intranet do MP, http://gpweb/. A tela de autenticação no sistema é apresentada, conforme figura abaixo. Caso possua usuário ativo e cadastrado no sistema, preencher o campo <i>login</i> (1) com o usuário, o campo <i>senha</i> (2) com sua respectiva senha e clicar no botão <i>entrar</i>(3). Caso ainda não possua usuário cadastrado no sistema, clicar no link <i>criar uma conta</i> (4).
 
@@ -10,13 +10,13 @@ Preencher o campo de <i>login</i> (5) com o login de rede, normalmente o mesmo u
 
 ![](https://raw.github.com/marcuslobo/manual/master/Imagens/115.JPG) &nbsp;
 
-Uma mensagem informando que o [Administrador do Sistema](http://gpweb/manual/glossario.html#admin) avisado é exibida. Clicar em Ok (16). Assim que o [Administrador do Sistema](http://gpweb/manual/glossario.html#admin) ativar o usuário, uma mensagem é enviada ao e-mail registrado no cadastro deste.
+Uma mensagem informando que o [Administrador do Sistema](http://gpweb/manual/glossario.html##admin) avisado é exibida. Clicar em Ok (16). Assim que o [Administrador do Sistema](http://gpweb/manual/glossario.html##admin) ativar o usuário, uma mensagem é enviada ao e-mail registrado no cadastro deste.
 
 ![](https://raw.github.com/marcuslobo/manual/master/Imagens/116.JPG) &nbsp;
 
-#ALTERAR A SENHA
+##ALTERAR A SENHA
 
-[(Video)](http://gpweb/manual/v_a2.html#rodape)
+[(Video)](http://gpweb/manual/v_a2.html##rodape)
 
 [Autenticado no sistema](http://gpweb/manual/a1.html), clicar no botão <i>meus dados</i> (1)
 
@@ -34,9 +34,9 @@ A mensagem <i>a sua senha foi alterada</i> (6) é exibida, confirmando a altera�
 
 ![](https://raw.github.com/marcuslobo/manual/master/Imagens/120.jpg) &nbsp;
 
-#SAIR DO SISTEMA
+##SAIR DO SISTEMA
 
-[(Video)](http://gpweb/manual/v_a3.html#rodape)
+[(Video)](http://gpweb/manual/v_a3.html##rodape)
 
 [Autenticado no sistema](http://gpweb/manual/a1.html), clicar no botão <i>sair</i> (1).
 
@@ -46,9 +46,9 @@ A tela de autenticação no sistema é exibida (2).
 
 ![](https://raw.github.com/marcuslobo/manual/master/Imagens/122.jpg) &nbsp;
 
-#NAVEGAÇÃO PELOS PROJETOS
+##NAVEGAÇÃO PELOS PROJETOS
 
-[(Video)](http://gpweb/manual/v_p1.html#rodape)
+[(Video)](http://gpweb/manual/v_p1.html##rodape)
 
 Autenticado no sistema ([como autenticar-se](http://gpweb/manual/a1.html)) ir até a opção <i>projetos</i> (1) no menu do sistema.
 
@@ -58,9 +58,9 @@ Utilizar o controle <i>UORG</i> (2), de Unidades Organizacionais, para localizar
 
 ![](https://raw.github.com/marcuslobo/manual/master/Imagens/123b.JPG) &nbsp;
 
-#ENVIAR PROJETOS
+##ENVIAR PROJETOS
 
-[(Video)](http://gpweb/manual/v_p2.html#rodape)
+[(Video)](http://gpweb/manual/v_p2.html##rodape)
 
 Na tela de listas de projetos ([como chegar](http://gpweb/manual/p1.html)), preencher a caixa de checagem (1) do projeto a ser enviado. Clicar no botão <i>enviar</i> (2).
 
@@ -74,9 +74,9 @@ A mensagem de <i>projeto enviado</i> (7) é exibida. O projeto estará disponív
 
 ![](https://raw.github.com/marcuslobo/manual/master/Imagens/124.jpg) &nbsp;
 
-#RECEBER PROJETOS
+##RECEBER PROJETOS
 
-[(Video)](http://gpweb/manual/v_p3.html#rodape)
+[(Video)](http://gpweb/manual/v_p3.html##rodape)
 
 Esta função é utilizada para receber projetos de outra unidade organizacional, previamente enviados - [como enviar](http://gpweb/manual/p2.html) -, de modo a serem observados pelos usuários alocados em outras unidades organizacionais. Na tela de lista de projetos - [como chegar](http://gpweb/manual/p1.html) - , clicar no botão <i>receber</i> (1). Note que no botão existe um número. Este número é o número de projetos pendentes aguardando aceitação ou rejeição.
 
@@ -90,9 +90,9 @@ No caso de aceitação do projeto, a mensagem <i>projeto recebido</i> (5) é exi
 
 ![](https://raw.github.com/marcuslobo/manual/master/Imagens/125b.jpg) &nbsp;
 
-#DETALHES DOS PROJETOS
+##DETALHES DOS PROJETOS
 
-Na tela de lista de projetos ([como chegar](http://gpweb/manual/p1.html)), clicar nos links dos projetos (1). Na tela de detalhes do projetos, várias informações referentes ao projeto são exibidas, tais como a [Unidade Organizacional (UORG)](http://gpweb/manual/glossario.html#uorg) de alocação do projeto, o seu nome abreviado, as suas datas de previsão de início e término, o seu final atualizado, baseado na previsão de término de sua tarefa mais tardia, seu gerente de projetos (3). São exibidas também informações sobre seu <i>status</i>, seu [nível de acesso](http://gpweb/manual/glossario.html#nivel_de_acesso), sua prioridade, o progresso em seu desenvolvimento, se está ativo, a quantidade de horas já trabalhadas nele, a quantidade de esforço previsto, etc (3). Na parte de baixo da tela, algumas abas são apresentadas contendo informações mais detalhadas do projeto. A primeira aba, <i>tarefas</i> (4), apresenta as tarefas do projeto, incluindo seu progresso, nome da tarefa, o responsável por sua execução, seus designados, a data de início e término previstos e a quantidade de dias para sua execução. Clicar na aba <i>tarefas inativas</i> (5).
+Na tela de lista de projetos ([como chegar](http://gpweb/manual/p1.html)), clicar nos links dos projetos (1). Na tela de detalhes do projetos, várias informações referentes ao projeto são exibidas, tais como a [Unidade Organizacional (UORG)](http://gpweb/manual/glossario.html##uorg) de alocação do projeto, o seu nome abreviado, as suas datas de previsão de início e término, o seu final atualizado, baseado na previsão de término de sua tarefa mais tardia, seu gerente de projetos (3). São exibidas também informações sobre seu <i>status</i>, seu [nível de acesso](http://gpweb/manual/glossario.html##nivel_de_acesso), sua prioridade, o progresso em seu desenvolvimento, se está ativo, a quantidade de horas já trabalhadas nele, a quantidade de esforço previsto, etc (3). Na parte de baixo da tela, algumas abas são apresentadas contendo informações mais detalhadas do projeto. A primeira aba, <i>tarefas</i> (4), apresenta as tarefas do projeto, incluindo seu progresso, nome da tarefa, o responsável por sua execução, seus designados, a data de início e término previstos e a quantidade de dias para sua execução. Clicar na aba <i>tarefas inativas</i> (5).
 
 ![](https://raw.github.com/marcuslobo/manual/master/Imagens/126.JPG) &nbsp;
 
@@ -113,14 +113,14 @@ São exibidos artefatos do projeto, em forma documental, acessíveis navegando p
 São exibidas todas as tarefas do projeto. Os botões  e  contraem e expandem detalhes, respectivamente (19). Os botões <i>expandir tudo</i> (20) e <i>contrair tudo</i> (21) expandem e contraem todos os níveis de aninhamento, respectivamente.
 
 
-#DETALHES DAS TAREFAS
+##DETALHES DAS TAREFAS
 
 
 Na tela de detalhes de projeto [(como chegar)](http://gpweb/manual/p4.html), na aba tarefas, é possível verificar as tarefas cadastradas para o projeto. Nesta tela já são exibidas informações gerais sobre as tarefas (1), tais como progresso (coluna <i>feito</i>), nome da tarefa (coluna <i>tarefa</i>), responsável, designados, datas de previsão para início e término da tarefa e duração estimada. clicar no nome da tarefa (2) para ver seus detalhes.
 
 ![](https://raw.github.com/marcuslobo/manual/master/Imagens/127.png) &nbsp;
 
-Na tela de detalhes da tarefa, várias informações (3) são exibidas, tais como nome da tarefa, UORG, responsável, prioridade, se é [marco do projeto](http://gpweb/manual/glossario.html#marco), o progresso de sua execução, tempo já trabalhado nesta tarefa, seu [nível de acesso](http://gpweb/manual/glossario.html#nivel_de_acesso), datas de previsão de início e término da tarefa, sua previsão de conclusão inicial, sua previsão de duração, dependência de outras tarefas e tarefas dela dependente. Na parte inferior da tela, na aba [<i>tarefas subordinadas</i>](http://gpweb/manual/glossario.html#tarefa_subordinada) (4), são exibidas as tarefas à esta subordinadas. Clicar na aba <i>eventos</i> (5).
+Na tela de detalhes da tarefa, várias informações (3) são exibidas, tais como nome da tarefa, UORG, responsável, prioridade, se é [marco do projeto](http://gpweb/manual/glossario.html##marco), o progresso de sua execução, tempo já trabalhado nesta tarefa, seu [nível de acesso](http://gpweb/manual/glossario.html##nivel_de_acesso), datas de previsão de início e término da tarefa, sua previsão de conclusão inicial, sua previsão de duração, dependência de outras tarefas e tarefas dela dependente. Na parte inferior da tela, na aba [<i>tarefas subordinadas</i>](http://gpweb/manual/glossario.html##tarefa_subordinada) (4), são exibidas as tarefas à esta subordinadas. Clicar na aba <i>eventos</i> (5).
 
 ![](https://raw.github.com/marcuslobo/manual/master/Imagens/128.png) &nbsp;
 
@@ -155,14 +155,14 @@ Na tela de detalhes das tarefas, os registros são exibidos dentro da aba <i>reg
 
 ![](Imagens/142.png) &nbsp;
 
-#ADICIONAR PROJETOS
+##ADICIONAR PROJETOS
 
 
 Na tela da lista de projetos [(como chegar)](http://gpweb/manual/p1.html), clicar no botão <i>novo projeto</i> (1).
 
 ![](https://raw.github.com/marcuslobo/manual/master/Imagens/150.png) &nbsp;
 
-Preencher as informações do projeto: nome do projeto (2), sigla do projeto (3), [Unidade Organizacional (UORG)](http://gpweb/manual/glossario.html#uorg) de alocação do projeto (4), gerente do projeto (5), [nível de acesso](http://gpweb/manual/glossario.html#uorg) como protegido (6), datas de início e término estimados (7), a cor do projeto (8), com (#0000FF) para projetos prioritários,  (#00AA00) para projetos estratégicos e (#000000) para projetos departamentais, tipo do projeto(9), status do projeto (10), se está ativo (11), mantendo o campo  preenchido, se o gerente e supervisor (12) receberão e-mails de notificação. Caso desejar, preencher demais informações. Clicar no botão <i>confirmar</i> (13).
+Preencher as informações do projeto: nome do projeto (2), sigla do projeto (3), [Unidade Organizacional (UORG)](http://gpweb/manual/glossario.html##uorg) de alocação do projeto (4), gerente do projeto (5), [nível de acesso](http://gpweb/manual/glossario.html##uorg) como protegido (6), datas de início e término estimados (7), a cor do projeto (8), com (##0000FF) para projetos prioritários,  (##00AA00) para projetos estratégicos e (##000000) para projetos departamentais, tipo do projeto(9), status do projeto (10), se está ativo (11), mantendo o campo  preenchido, se o gerente e supervisor (12) receberão e-mails de notificação. Caso desejar, preencher demais informações. Clicar no botão <i>confirmar</i> (13).
 
 ![](https://raw.github.com/marcuslobo/manual/master/Imagens/151.png) &nbsp;
 
@@ -170,14 +170,14 @@ A mensagem de confirmação da inserção do projeto é exibida (14).
 
 ![](https://raw.github.com/marcuslobo/manual/master/Imagens/152.png) &nbsp;
 
-#ADICIONAR TAREFAS  
+##ADICIONAR TAREFAS  
 
 
 Na tela de detalhes do projeto [(como chegar)](http://gpweb/manual/p4.html), clicar no botão <i>nova tarefa</i> (1).
 
 ![](https://raw.github.com/marcuslobo/manual/master/Imagens/160.png) &nbsp;
 
-Preencher o nome da tarefa (2). Selecionar se a tarefa está ou não ativa (3). Manter, no cadastro das tarefas, o progresso em 0 (zero) porcento (4). Se for marco, preencher o campo correspondente (5). Selecionar o responsável pela tarefa (6). Preencher o campo <i>notificar por e-mail</i> (7) para que o responsável tome ciência via mensagem eletrônica. Selecionar o [<i>nível de acesso</i>](http://gpweb/manual/glossario.html#nivel_de_acesso) (8) como protegido. Clicar na aba <i>datas</i> (9).
+Preencher o nome da tarefa (2). Selecionar se a tarefa está ou não ativa (3). Manter, no cadastro das tarefas, o progresso em 0 (zero) porcento (4). Se for marco, preencher o campo correspondente (5). Selecionar o responsável pela tarefa (6). Preencher o campo <i>notificar por e-mail</i> (7) para que o responsável tome ciência via mensagem eletrônica. Selecionar o [<i>nível de acesso</i>](http://gpweb/manual/glossario.html##nivel_de_acesso) (8) como protegido. Clicar na aba <i>datas</i> (9).
 
 ![](https://raw.github.com/marcuslobo/manual/master/Imagens/161.png) &nbsp;
 
@@ -197,14 +197,14 @@ A mensagem de confirmação, da adição da tarefa, é exibida (25).
 
 ![](https://raw.github.com/marcuslobo/manual/master/Imagens/165.png) &nbsp;
 
-#ADICIONAR REGISTROS ÀS TAREFAS  
+##ADICIONAR REGISTROS ÀS TAREFAS  
 
 
 Na tela de detalhes da tarefa [(como chegar)](http://gpweb/manual/p5.html), clicar no botão <i>novo registro</i> (1) ou na aba <i>registrar</i> (2).
 
 ![](https://raw.github.com/marcuslobo/manual/master/Imagens/170.png) &nbsp;
 
-Preencher a <i>data</i> (3) com a data de registro da informação. Definir a porcentagem do <i>progresso</i> de execução em que a tarefa se encontrava no momento do registro (4). Preencher com o número de <i>horas trabalhadas</i> (5) desde o último registro da tarefa ou, desde o início da tarefa, caso seja seu primiero registro. Alterar o valor de <i>data de término</i> (6) caso a tarefa esteja sendo completada, com a data do registro. Escolher protegido como [<i>nível de acesso</i> (7)](http://gpweb/manual/glossario.html#nivel_de_acesso). Caso esteja reportando um problema, manter preenchido o campo <i>problema</i> (8). Selecionar a <i>referência</i> (9) que mais se enquadra. Preencher com uma descrição para o registro (10, reportando o ocorrido. Selecionar quais tipos de usuários serão notificados (11). Clicar em <i>confirmar</i> (12).
+Preencher a <i>data</i> (3) com a data de registro da informação. Definir a porcentagem do <i>progresso</i> de execução em que a tarefa se encontrava no momento do registro (4). Preencher com o número de <i>horas trabalhadas</i> (5) desde o último registro da tarefa ou, desde o início da tarefa, caso seja seu primiero registro. Alterar o valor de <i>data de término</i> (6) caso a tarefa esteja sendo completada, com a data do registro. Escolher protegido como [<i>nível de acesso</i> (7)](http://gpweb/manual/glossario.html##nivel_de_acesso). Caso esteja reportando um problema, manter preenchido o campo <i>problema</i> (8). Selecionar a <i>referência</i> (9) que mais se enquadra. Preencher com uma descrição para o registro (10, reportando o ocorrido. Selecionar quais tipos de usuários serão notificados (11). Clicar em <i>confirmar</i> (12).
 
 ![](https://raw.github.com/marcuslobo/manual/master/Imagens/171.png) &nbsp;
 
@@ -212,7 +212,7 @@ A mensagem de confirmação, da inserção do registro na tarefa, é exibida (13
 
 ![](https://raw.github.com/marcuslobo/manual/master/Imagens/172.png) &nbsp;
 
-#EDITAR PROJETOS  
+##EDITAR PROJETOS  
 
 
 Na tela de detalhes do projeto [(como chegar)](http://gpweb/manual/p4.html), clicar no botão <i>editar</i> (1).
@@ -227,7 +227,7 @@ A mensagem de confirmação, da atualização do projeto, é exibida (3).
 
 ![](https://raw.github.com/marcuslobo/manual/master/Imagens/182.png) &nbsp;
 
-#EDITAR TAREFAS  
+##EDITAR TAREFAS  
 
 
 Na tela de detalhes da tarefa ([como chegar](http://gpweb/manual/p5.html)), clicar no botão <i>editar</i> (1).
@@ -242,7 +242,7 @@ A mensagem de confirmação de atualização da tarefa é exibida (3).
 
 ![](https://raw.github.com/marcuslobo/manual/master/Imagens/192.png) &nbsp;
 
-#EDITAR REGISTROS DAS TAREFAS  
+##EDITAR REGISTROS DAS TAREFAS  
 
 
 Na tela de detalhes da tarefa [(como chegar)](http://gpweb/manual/p5.html), na aba de <i>registros da tarefa</i>, clicar no botão  (1), da linha respectiva do registro da tarefa que deseja alterar.
@@ -257,7 +257,7 @@ A mensagem de confirmação da atualização do registro da tarefa é exibida (3
 
 ![](https://raw.github.com/marcuslobo/manual/master/Imagens/197.png) &nbsp;
 
-#EXCLUIR PROJETOS  
+##EXCLUIR PROJETOS  
 
 
 Na tela de detalhes do projeto [(como chegar)](http://gpweb/manual/p4.html) clicar no botão <i>excluir projeto</i> (1).
@@ -272,7 +272,7 @@ A mensagem de confirmação <i>projeto excluído</i> é exibida (3).
 
 ![](https://raw.github.com/marcuslobo/manual/master/Imagens/303.png) &nbsp;
 
-#EXCLUIR TAREFAS  
+##EXCLUIR TAREFAS  
 
 
 Na tela de detalhes da tarefa [(como chegar)](http://gpweb/manual/p5.html) clicar no botão <i>excluir tarefa</i> (1).
@@ -287,7 +287,7 @@ A mensagem de confirmação <i>tarefa excluída</i> é exibida (3).
 
 ![](https://raw.github.com/marcuslobo/manual/master/Imagens/312.png) &nbsp;
 
-#EXCLUIR REGISTROS DE TAREFAS
+##EXCLUIR REGISTROS DE TAREFAS
 
 
 Na tela de detalhes da tarefa [(como chegar)](http://gpweb/manual/p5.html), dentro da aba de registros da tarefa (1), clicar no botão Detalhe do botão excluir registro (2) da linha de registro que se deseja excluir.
