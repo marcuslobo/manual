@@ -8,11 +8,11 @@ Para acessar o sistema GP-Web, instância em produção do Ministério do Planej
 
 Preencher o campo de <i>login</i> (5) com o login de rede, normalmente o mesmo utilizado no e-mail corporativo (parte que antecede <i>@planejamento.gov.br</i>). Preencher o campo de <i>senha</i> (6), repetindo-a no campo de confirmação (7). Escolher um pronome de tratamento e preencher o campo com primeiro e último nomes (8). Preencher o campo <i>função</i> (9) com o cargo ocupado. Preencher o campo <i>nome completo</i> (10). Preencher o campo <i>e-mail principal</i> (11) com seu e-mail corporativo. Escolher a <i>unidade organizacional</i> (12) de alocação. Caso a mesma não esteja presente dentre as opções, escolher qualquer uma e enviar e-mail para cproj.dst@listas.planejamento.gov.br (contendo o nome oficial da coordenação/coordenação-geral/departamento/secretaria e suas siglas) para que seja providenciada sua correta inclusão. Selecionar a unidade federativa no <i>estado</i> (13). Selecionar o <i>município</i> (14). Clicar em <i>inscrever</i> (15).
 
-![](Imagens/115.JPG) &nbsp;
+![](https://raw.github.com/marcuslobo/manual/master/Imagens/115.JPG) &nbsp;
 
 Uma mensagem informando que o [Administrador do Sistema](http://gpweb/manual/glossario.html#admin) avisado é exibida. Clicar em Ok (16). Assim que o [Administrador do Sistema](http://gpweb/manual/glossario.html#admin) ativar o usuário, uma mensagem é enviada ao e-mail registrado no cadastro deste.
 
-![](Imagens/116.JPG) &nbsp;
+![](https://raw.github.com/marcuslobo/manual/master/Imagens/116.JPG) &nbsp;
 
 ALTERAR A SENHA
 ===============
@@ -20,19 +20,19 @@ ALTERAR A SENHA
 
 [Autenticado no sistema](http://gpweb/manual/a1.html), clicar no botão <i>meus dados</i> (1)
 
-![](Imagens/117.JPG) &nbsp;
+![](https://raw.github.com/marcuslobo/manual/master/Imagens/117.JPG) &nbsp;
 
 Na tela de detalhes do usuário, clicar no botão <i>mudar a senha</i>.
 
-![](Imagens/118.jpg) &nbsp;
+![](https://raw.github.com/marcuslobo/manual/master/Imagens/118.jpg) &nbsp;
 
 Preencher o campo <i>nova senha</i> (3) com a nova senha. Repetir a mesma senha criada no campo <i>repetir nova senha</i> (4). Clicar no botão <i>confirmar</i>.
 
-![](Imagens/119.jpg) &nbsp;
+![](https://raw.github.com/marcuslobo/manual/master/Imagens/119.jpg) &nbsp;
 
 A mensagem <i>a sua senha foi alterada</i> (6) é exibida, confirmando a alteração da senha.
 
-![](Imagens/120.jpg) &nbsp;
+![](https://raw.github.com/marcuslobo/manual/master/Imagens/120.jpg) &nbsp;
 
 SAIR DO SISTEMA
 ===============
