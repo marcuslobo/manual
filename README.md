@@ -4,7 +4,7 @@ ACESSAR O SISTEMA
 
 Para acessar o sistema GP-Web, instância em produção do Ministério do Planejamento, Orçamento e Gestão MP, navegar até o endereço, disponível na intranet do MP, http://gpweb/. A tela de autenticação no sistema é apresentada, conforme figura abaixo. Caso possua usuário ativo e cadastrado no sistema, preencher o campo <i>login</i> (1) com o usuário, o campo <i>senha</i> (2) com sua respectiva senha e clicar no botão <i>entrar</i>(3). Caso ainda não possua usuário cadastrado no sistema, clicar no link <i>criar uma conta</i> (4).
 
-![](Imagens/114.JPG) &nbsp;
+![](https://raw.github.com/marcuslobo/manual/master/Imagens/114.JPG) &nbsp;
 
 Preencher o campo de <i>login</i> (5) com o login de rede, normalmente o mesmo utilizado no e-mail corporativo (parte que antecede <i>@planejamento.gov.br</i>). Preencher o campo de <i>senha</i> (6), repetindo-a no campo de confirmação (7). Escolher um pronome de tratamento e preencher o campo com primeiro e último nomes (8). Preencher o campo <i>função</i> (9) com o cargo ocupado. Preencher o campo <i>nome completo</i> (10). Preencher o campo <i>e-mail principal</i> (11) com seu e-mail corporativo. Escolher a <i>unidade organizacional</i> (12) de alocação. Caso a mesma não esteja presente dentre as opções, escolher qualquer uma e enviar e-mail para cproj.dst@listas.planejamento.gov.br (contendo o nome oficial da coordenação/coordenação-geral/departamento/secretaria e suas siglas) para que seja providenciada sua correta inclusão. Selecionar a unidade federativa no <i>estado</i> (13). Selecionar o <i>município</i> (14). Clicar em <i>inscrever</i> (15).
 
