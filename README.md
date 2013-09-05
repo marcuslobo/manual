@@ -301,3 +301,5 @@ A tela de confirmação de exclusão do registro é exibida. Clicar no botão <i
 A mensagem de confirmação de exclusão do registro é exibida (4).
 
 ![](https://raw.github.com/marcuslobo/manual/master/Imagens/322.png) &nbsp;
+
+teste de instrução
